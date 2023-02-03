@@ -1,9 +1,9 @@
-#Procedural Island Generation Tool
+# Procedural Island Generation Tool
 A Procedural Generation tool for creating quickly generating island meshes
 
 See my portfolio for additional information: https://marknicholsondev.github.io//
 
-##List of Features
+## List of Features
 
 | Name  | Description |
 | ------------- | ------------- |
@@ -15,11 +15,11 @@ See my portfolio for additional information: https://marknicholsondev.github.io/
 | Auto Updating functionality  |  There is an option to turn on auto-update so you can see the impact of parameters in real time  |
 | Perlin Noise generator  | Basis of the entire project which controls how the islands are generated and has a lot of fine tuning options  |
 
-###Notes
+### Notes
 The auto update feature can sometimes cause stutters with particularly demanding settings being turned on such as turning on vegetation
 or switching the seed of the noise map which causes all islands to re-generate.
 
-##Using the Project:
+## Using the Project:
 The UI of the tool is built directly into the inspector window found on the right hand side of the Unity window.
 
 To run the project at default settings click the play button and a world 
