@@ -23,4 +23,5 @@ or switching the seed of the noise map which causes all islands to re-generate.
 ## Using the Project:
 The UI of the tool is built directly into the inspector window found on the right hand side of the Unity window.
 
-To run the project at default settings click the play button and a world 
+To run the project at default settings click the play button and a world of island chunks will be generated, the seed can be changed to
+generate a new set or another set of islands.
