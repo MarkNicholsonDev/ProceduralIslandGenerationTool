@@ -1,6 +1,6 @@
 # Procedural Island Generation Tool
 A Procedural Generation tool for creating quickly generating island meshes which are fully textured, filled with vegetation
-and featuring multiple generated LOD variants of those same island meshes.
+and featuring 3 auto generated LOD variants of those same island meshes.
 
 See my portfolio for additional information: https://marknicholsondev.github.io//
 
