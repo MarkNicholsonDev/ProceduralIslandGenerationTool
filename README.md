@@ -27,4 +27,4 @@ To run the project at default settings click the play button and a world of isla
 generate a new set or another set of islands.
 
 ## Known Bugs
-There can be a issue with the auto-update functionality not correctly updating the texture scriptable object, this is due to the mesh heights not being updated for the texture shader. To solve the issue the UpdateMeshHeights() method can be commented out and then save, then comment back in and the islands should be textured again. This can be found in /Scripts/Data/TextureData.cs
+There can be a issue with the auto-update functionality not correctly updating the texture scriptable object, this is due to the mesh heights not being updated for the texture shader. To solve the issue the UpdateMeshHeights() method can be commented out and then save, then comment back in and the islands should be textured again. This can be found in /Scripts/Data/TextureData.cs at the bottom of the script.
